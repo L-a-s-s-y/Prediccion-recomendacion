@@ -1,0 +1,13 @@
+numpy==1.26.4
+scikit-surprise
+pandas
+ipykernel
+matplotlib
+seaborn
+tqdm
+scikit-learn
+scipy
+git+https://github.com/lyst/lightfm.git@master
+torch
+torchvision
+torchaudio
